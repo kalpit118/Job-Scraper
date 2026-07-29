@@ -1,0 +1,42 @@
+# Git ignore rules for the Job Alert System
+
+# ── Credentials ────────────────────────────────────
+.env
+
+# ── Python ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.Python
+
+# ── Playwright ──────────────────────────────────────
+/playwright/.auth/
+.playwright/
+
+# ── Logs ───────────────────────────────────────────
+# Keep directory but ignore log files
+logs/*.log
+logs/*.zip
+# Uncomment to also ignore the entire logs folder:
+# logs/
+
+# ── IDE ────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Testing ────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/

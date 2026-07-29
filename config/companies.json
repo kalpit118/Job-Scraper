@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Airbnb",
+    "url": "https://boards.greenhouse.io/airbnb",
+    "type": "greenhouse"
+  },
+  {
+    "name": "1mg",
+    "url": "https://careers.1mg.com",
+    "type": "custom"
+  },
+  {
+    "name": "Amazon",
+    "url": "https://careers.amazon.com",
+    "type": "custom"
+  },
+  {
+    "name": "Adobe",
+    "url": "https://careers.adobe.com",
+    "type": "custom"
+  },
+  {
+    "name": "Ajio",
+    "url": "https://careers.ajio.com",
+    "type": "custom"
+  },
+  {
+    "name": "AMD",
+    "url": "https://careers.amd.com",
+    "type": "custom"
+  },
+  {
+    "name": "Apple",
+    "url": "https://careers.apple.com",
+    "type": "custom"
+  },
+  {
+    "name": "Akamai",
+    "url": "https://careers.akamai.com",
+    "type": "custom"
+  },
+  {
+    "name": "Arm",
+    "url": "https://careers.arm.com",
+    "type": "custom"
+  },
+  {
+    "name": "Angel One",
+    "url": "https://jobs.lever.co/angel",
+    "type": "lever"
+  },
+  {
+    "name": "Arya.ai",
+    "url": "https://careers.aryaai.com",
+    "type": "custom"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://careers.atlassian.com",
+    "type": "custom"
+  },
+  {
+    "name": "Autodesk",
+    "url": "https://careers.autodesk.com",
+    "type": "custom"
+  },
+  {
+    "name": "BharatPe",
+    "url": "https://careers.bharatpe.com",
+    "type": "custom"
+  },
+  {
+    "name": "BigBasket",
+    "url": "https://careers.bigbasket.com",
+    "type": "custom"
+  },
+  {
+    "name": "CRED",
+    "url": "https://jobs.lever.co/cred",
+    "type": "lever"
+  },
+  {
+    "name": "Blinkit",
+    "url": "https://careers.blinkit.com",
+    "type": "custom"
+  },
+  {
+    "name": "Boat",
+    "url": "https://careers.boat.com",
+    "type": "custom"
+  },
+  {
+    "name": "BrowserStack",
+    "url": "https://careers.browserstack.com",
+    "type": "custom"
+  },
+  {
+    "name": "Broadcom",
+    "url": "https://careers.broadcom.com",
+    "type": "custom"
+  },
+  {
+    "name": "Booking.com",
+    "url": "https://careers.bookingcom.com",
+    "type": "custom"
+  },
+  {
+    "name": "Canonical",
+    "url": "https://boards.greenhouse.io/canonical",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://boards.greenhouse.io/cloudflare",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Cadence",
+    "url": "https://careers.cadence.com",
+    "type": "custom"
+  },
+  {
+    "name": "Cashfree",
+    "url": "https://careers.cashfree.com",
+    "type": "custom"
+  },
+  {
+    "name": "Chargebee",
+    "url": "https://careers.chargebee.com",
+    "type": "custom"
+  },
+  {
+    "name": "Citrix",
+    "url": "https://careers.citrix.com",
+    "type": "custom"
+  },
+  {
+    "name": "Cisco",
+    "url": "https://careers.cisco.com",
+    "type": "custom"
+  },
+  {
+    "name": "Capillary Technologies",
+    "url": "https://careers.capillarytechnologies.com",
+    "type": "custom"
+  },
+  {
+    "name": "Cohesity",
+    "url": "https://careers.cohesity.com",
+    "type": "custom"
+  },
+  {
+    "name": "CleverTap",
+    "url": "https://careers.clevertap.com",
+    "type": "custom"
+  },
+  {
+    "name": "CoinDCX",
+    "url": "https://careers.coindcx.com",
+    "type": "custom"
+  },
+  {
+    "name": "Databricks",
+    "url": "https://boards.greenhouse.io/databricks",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://boards.greenhouse.io/dropbox",
+    "type": "greenhouse"
+  },
+  {
+    "name": "CoinSwitch",
+    "url": "https://careers.coinswitch.com",
+    "type": "custom"
+  },
+  {
+    "name": "Druva",
+    "url": "https://boards.greenhouse.io/druva",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Elastic",
+    "url": "https://boards.greenhouse.io/elastic",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Confluent",
+    "url": "https://jobs.ashbyhq.com/confluent",
+    "type": "ashby"
+  },
+  {
+    "name": "Darwinbox",
+    "url": "https://careers.darwinbox.com",
+    "type": "custom"
+  },
+  {
+    "name": "Delhivery",
+    "url": "https://careers.delhivery.com",
+    "type": "custom"
+  },
+  {
+    "name": "Dream11",
+    "url": "https://careers.dream11.com",
+    "type": "custom"
+  },
+  {
+    "name": "Dell Technologies",
+    "url": "https://careers.delltechnologies.com",
+    "type": "custom"
+  },
+  {
+    "name": "Dunzo",
+    "url": "https://careers.dunzo.com",
+    "type": "custom"
+  },
+  {
+    "name": "Expedia",
+    "url": "https://careers.expedia.com",
+    "type": "custom"
+  },
+  {
+    "name": "FirstCry",
+    "url": "https://careers.firstcry.com",
+    "type": "custom"
+  },
+  {
+    "name": "Fi Money",
+    "url": "https://jobs.lever.co/fi",
+    "type": "lever"
+  },
+  {
+    "name": "Freshworks",
+    "url": "https://jobs.lever.co/freshworks",
+    "type": "lever"
+  },
+  {
+    "name": "Flipkart",
+    "url": "https://careers.flipkart.com",
+    "type": "custom"
+  },
+  {
+    "name": "Groww",
+    "url": "https://boards.greenhouse.io/groww",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Fractal Analytics",
+    "url": "https://careers.fractalanalytics.com",
+    "type": "custom"
+  },
+  {
+    "name": "Fyle",
+    "url": "https://careers.fyle.com",
+    "type": "custom"
+  },
+  {
+    "name": "Games24x7",
+    "url": "https://careers.games24x7.com",
+    "type": "custom"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://careers.github.com",
+    "type": "custom"
+  },
+  {
+    "name": "Google",
+    "url": "https://careers.google.com",
+    "type": "custom"
+  },
+  {
+    "name": "HighRadius",
+    "url": "https://boards.greenhouse.io/highradius",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Gupshup",
+    "url": "https://careers.gupshup.com",
+    "type": "custom"
+  },
+  {
+    "name": "InMobi",
+    "url": "https://boards.greenhouse.io/inmobi",
+    "type": "greenhouse"
+  },
+  {
+    "name": "HP",
+    "url": "https://careers.hp.com",
+    "type": "custom"
+  },
+  {
+    "name": "Haptik",
+    "url": "https://careers.haptik.com",
+    "type": "custom"
+  },
+  {
+    "name": "Healthify",
+    "url": "https://careers.healthify.com",
+    "type": "custom"
+  },
+  {
+    "name": "Hasura",
+    "url": "https://careers.hasura.com",
+    "type": "custom"
+  },
+  {
+    "name": "IBM",
+    "url": "https://careers.ibm.com",
+    "type": "custom"
+  },
+  {
+    "name": "Innovaccer",
+    "url": "https://careers.innovaccer.com",
+    "type": "custom"
+  },
+  {
+    "name": "Intel",
+    "url": "https://careers.intel.com",
+    "type": "custom"
+  },
+  {
+    "name": "Jar",
+    "url": "https://careers.jar.com",
+    "type": "custom"
+  },
+  {
+    "name": "JioHotstar",
+    "url": "https://careers.jiohotstar.com",
+    "type": "custom"
+  },
+  {
+    "name": "JioMart",
+    "url": "https://careers.jiomart.com",
+    "type": "custom"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://boards.greenhouse.io/linkedin",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Jupiter",
+    "url": "https://careers.jupiter.com",
+    "type": "custom"
+  },
+  {
+    "name": "LeadSquared",
+    "url": "https://careers.leadsquared.com",
+    "type": "custom"
+  },
+  {
+    "name": "Kissflow",
+    "url": "https://careers.kissflow.com",
+    "type": "custom"
+  },
+  {
+    "name": "Krutrim AI",
+    "url": "https://careers.krutrimai.com",
+    "type": "custom"
+  },
+  {
+    "name": "Lenskart",
+    "url": "https://careers.lenskart.com",
+    "type": "custom"
+  },
+  {
+    "name": "MPL",
+    "url": "https://careers.mpl.com",
+    "type": "custom"
+  },
+  {
+    "name": "Meesho",
+    "url": "https://jobs.lever.co/meesho",
+    "type": "lever"
+  },
+  {
+    "name": "M2P Fintech",
+    "url": "https://careers.m2pfintech.com",
+    "type": "custom"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://boards.greenhouse.io/mongodb",
+    "type": "greenhouse"
+  },
+  {
+    "name": "MathWorks",
+    "url": "https://careers.mathworks.com",
+    "type": "custom"
+  },
+  {
+    "name": "MediBuddy",
+    "url": "https://careers.medibuddy.com",
+    "type": "custom"
+  },
+  {
+    "name": "Mad Street Den",
+    "url": "https://careers.madstreetden.com",
+    "type": "custom"
+  },
+  {
+    "name": "Meta",
+    "url": "https://careers.meta.com",
+    "type": "custom"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://careers.microsoft.com",
+    "type": "custom"
+  },
+  {
+    "name": "MoEngage",
+    "url": "https://careers.moengage.com",
+    "type": "custom"
+  },
+  {
+    "name": "Observe.AI",
+    "url": "https://boards.greenhouse.io/observeai",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Okta",
+    "url": "https://boards.greenhouse.io/okta",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Myntra",
+    "url": "https://careers.myntra.com",
+    "type": "custom"
+  },
+  {
+    "name": "NVIDIA",
+    "url": "https://careers.nvidia.com",
+    "type": "custom"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://careers.netflix.com",
+    "type": "custom"
+  },
+  {
+    "name": "Nutanix",
+    "url": "https://careers.nutanix.com",
+    "type": "custom"
+  },
+  {
+    "name": "Nykaa",
+    "url": "https://careers.nykaa.com",
+    "type": "custom"
+  },
+  {
+    "name": "Nazara Technologies",
+    "url": "https://careers.nazaratechnologies.com",
+    "type": "custom"
+  },
+  {
+    "name": "Ola",
+    "url": "https://careers.ola.com",
+    "type": "custom"
+  },
+  {
+    "name": "PhonePe",
+    "url": "https://boards.greenhouse.io/phonepe",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Open",
+    "url": "https://careers.open.com",
+    "type": "custom"
+  },
+  {
+    "name": "Oracle",
+    "url": "https://careers.oracle.com",
+    "type": "custom"
+  },
+  {
+    "name": "PayPal",
+    "url": "https://careers.paypal.com",
+    "type": "custom"
+  },
+  {
+    "name": "Paytm",
+    "url": "https://jobs.lever.co/paytm",
+    "type": "lever"
+  },
+  {
+    "name": "Postman",
+    "url": "https://boards.greenhouse.io/postman",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Pepperfry",
+    "url": "https://careers.pepperfry.com",
+    "type": "custom"
+  },
+  {
+    "name": "Perfios",
+    "url": "https://careers.perfios.com",
+    "type": "custom"
+  },
+  {
+    "name": "PharmEasy",
+    "url": "https://careers.pharmeasy.com",
+    "type": "custom"
+  },
+  {
+    "name": "Pocket FM",
+    "url": "https://jobs.lever.co/pocketfm",
+    "type": "lever"
+  },
+  {
+    "name": "PhysicsWallah",
+    "url": "https://careers.physicswallah.com",
+    "type": "custom"
+  },
+  {
+    "name": "Porter",
+    "url": "https://jobs.lever.co/porter",
+    "type": "lever"
+  },
+  {
+    "name": "Pine Labs",
+    "url": "https://boards.greenhouse.io/pine",
+    "type": "greenhouse"
+  },
+  {
+    "name": "PolicyBazaar",
+    "url": "https://careers.policybazaar.com",
+    "type": "custom"
+  },
+  {
+    "name": "Rubrik",
+    "url": "https://boards.greenhouse.io/rubrik",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Practo",
+    "url": "https://careers.practo.com",
+    "type": "custom"
+  },
+  {
+    "name": "Profit.co",
+    "url": "https://careers.profitco.com",
+    "type": "custom"
+  },
+  {
+    "name": "Purplle",
+    "url": "https://careers.purplle.com",
+    "type": "custom"
+  },
+  {
+    "name": "Qualcomm",
+    "url": "https://careers.qualcomm.com",
+    "type": "custom"
+  },
+  {
+    "name": "Rapido",
+    "url": "https://careers.rapido.com",
+    "type": "custom"
+  },
+  {
+    "name": "Quantiphi",
+    "url": "https://careers.quantiphi.com",
+    "type": "custom"
+  },
+  {
+    "name": "Razorpay",
+    "url": "https://careers.razorpay.com",
+    "type": "custom"
+  },
+  {
+    "name": "Slice",
+    "url": "https://boards.greenhouse.io/slice",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Rebel Foods",
+    "url": "https://careers.rebelfoods.com",
+    "type": "custom"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://boards.greenhouse.io/stripe",
+    "type": "greenhouse"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://careers.salesforce.com",
+    "type": "custom"
+  },
+  {
+    "name": "ServiceNow",
+    "url": "https://careers.servicenow.com",
+    "type": "custom"
+  },
+  {
+    "name": "Red Hat",
+    "url": "https://careers.redhat.com",
+    "type": "custom"
+  },
+  {
+    "name": "SigTuple",
+    "url": "https://careers.sigtuple.com",
+    "type": "custom"
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://careers.snowflake.com",
+    "type": "custom"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://boards.greenhouse.io/twilio",
+    "type": "greenhouse"
+  },
+  {
+    "name": "SAP Labs",
+    "url": "https://careers.saplabs.com",
+    "type": "custom"
+  },
+  {
+    "name": "Sarvam AI",
+    "url": "https://careers.sarvamai.com",
+    "type": "custom"
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://careers.swiggy.com",
+    "type": "custom"
+  },
+  {
+    "name": "Synopsys",
+    "url": "https://careers.synopsys.com",
+    "type": "custom"
+  },
+  {
+    "name": "Uber",
+    "url": "https://careers.uber.com",
+    "type": "custom"
+  },
+  {
+    "name": "Siemens EDA",
+    "url": "https://careers.siemenseda.com",
+    "type": "custom"
+  },
+  {
+    "name": "Unacademy",
+    "url": "https://careers.unacademy.com",
+    "type": "custom"
+  },
+  {
+    "name": "Upstox",
+    "url": "https://careers.upstox.com",
+    "type": "custom"
+  },
+  {
+    "name": "VMware",
+    "url": "https://careers.vmware.com",
+    "type": "custom"
+  },
+  {
+    "name": "WebEngage",
+    "url": "https://careers.webengage.com",
+    "type": "custom"
+  },
+  {
+    "name": "Whatfix",
+    "url": "https://careers.whatfix.com",
+    "type": "custom"
+  },
+  {
+    "name": "WinZO",
+    "url": "https://careers.winzo.com",
+    "type": "custom"
+  },
+  {
+    "name": "Zeta",
+    "url": "https://jobs.lever.co/zeta",
+    "type": "lever"
+  },
+  {
+    "name": "Wingify",
+    "url": "https://careers.wingify.com",
+    "type": "custom"
+  },
+  {
+    "name": "Yellow.ai",
+    "url": "https://careers.yellowai.com",
+    "type": "custom"
+  },
+  {
+    "name": "Zepto",
+    "url": "https://careers.zepto.com",
+    "type": "custom"
+  },
+  {
+    "name": "Zerodha",
+    "url": "https://careers.zerodha.com",
+    "type": "custom"
+  },
+  {
+    "name": "Zoho",
+    "url": "https://careers.zoho.com",
+    "type": "custom"
+  },
+  {
+    "name": "Zoho Mail",
+    "url": "https://careers.zohomail.com",
+    "type": "custom"
+  },
+  {
+    "name": "Zomato",
+    "url": "https://careers.zomato.com",
+    "type": "custom"
+  },
+  {
+    "name": "upGrad",
+    "url": "https://careers.upgrad.com",
+    "type": "custom"
+  }
+]

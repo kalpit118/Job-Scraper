@@ -1,0 +1,74 @@
+name: Job Alert — Hourly Scraper
+
+on:
+  # Run at the top of every hour, 24/7
+  schedule:
+    - cron: "0 * * * *"
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+
+permissions:
+  contents: write   # Needed to commit the updated SQLite database
+
+jobs:
+  scrape:
+    name: Scrape & Notify
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git diff can detect real changes
+          fetch-depth: 0
+
+      # ── 2. Setup Python ──────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ── 3. Install dependencies ──────────────────────────────────
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Install Playwright browsers ──────────────────────────
+      - name: Install Playwright Chromium
+        run: playwright install chromium --with-deps
+
+      # ── 5. Create logs directory ─────────────────────────────────
+      - name: Ensure logs directory exists
+        run: mkdir -p logs
+
+      # ── 6. Run the scraper ───────────────────────────────────────
+      - name: Run job scraper
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DB_PATH: database/jobs.db
+          COMPANIES_PATH: config/companies.json
+          SEND_SUMMARY: "true"
+        run: python main.py
+
+      # ── 7. Commit DB changes (only if something changed) ─────────
+      - name: Commit updated database
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the database file (not logs – too noisy)
+          git add database/jobs.db
+
+          # Only commit if there's something staged
+          if git diff --cached --quiet; then
+            echo "No database changes — skipping commit."
+          else
+            git commit -m "chore: update jobs.db [skip ci]"
+            git push
+          fi
