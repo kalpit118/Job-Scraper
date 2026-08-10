@@ -718,5 +718,10 @@
     "name": "upGrad",
     "url": "https://careers.upgrad.com",
     "type": "custom"
+  },
+  {
+    "name": "JobDexo",
+    "url": "https://jobdexo.com",
+    "type": "custom"
   }
 ]
