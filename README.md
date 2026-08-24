@@ -275,4 +275,4 @@ You can also trigger it manually from **Actions → Job Alert — Hourly Scraper
 
 ## 📄 License
 
-MIT © 2024 — feel free to use this in your own projects.
+MIT © 2026 — feel free to use this in your own projects.
